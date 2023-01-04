@@ -44,3 +44,4 @@ Color
   - [PUEBI Daring](https://puebi.js.org)
   - [Ivan Lanin](https://twitter.com/ivanlanin)
   - [Fauzan Al-Rasyid](https://twitter.com/fauzanalrasyid)
+  - [Font Awesome](https://fontawesome.com)
