@@ -18,7 +18,10 @@ Tools
   - CorelDRAW
 
 Deployment
+  - Unity
+  - Google Play
   - itch.io
+  - Appetize
 
 ## Design
 Font
