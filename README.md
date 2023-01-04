@@ -18,10 +18,9 @@ Tools
   - CorelDRAW
 
 Deployment
-  - Unity
-  - Google Play
-  - itch.io
-  - Appetize
+  - [Google Play](https://play.google.com/store/apps/details?id=id.ac.stiki.doleno.swanify)
+  - [itch.io](https://luqmanherifa.itch.io/swanify)
+  - [Appetize](https://appetize.io/app/oo6c6vfw22vv53hll7boigr6mq)
 
 ## Design
 Font
