@@ -38,7 +38,7 @@ Color
   - [LinkedIn](https://www.linkedin.com/in/luqmanherifa)
 
 ## Thanks to
-  - [Duolingo](https://www.duolingo.com/)
-  - [PUEBI Daring](https://puebi.js.org/)
+  - [Duolingo](https://www.duolingo.com)
+  - [PUEBI Daring](https://puebi.js.org)
   - [Ivan Lanin](https://twitter.com/ivanlanin)
   - [Fauzan Al-Rasyid](https://twitter.com/fauzanalrasyid)
