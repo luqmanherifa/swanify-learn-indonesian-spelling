@@ -28,9 +28,9 @@ Swanify is a mobile app Indonesian spelling according to PUEBI learning media an
   - ![#4B4B4B](https://placehold.co/20x20/4B4B4B/4B4B4B.png)  #4B4B4B
   
 ### Tools
-  - Blender
   - Figma
   - CorelDRAW
+  - Blender
 
 ## Build
 ### Deployments
