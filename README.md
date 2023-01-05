@@ -32,7 +32,7 @@ Color
   - ![#EE4040](https://placehold.co/20x20/EE4040/EE4040.png)  #EE4040
   - ![#FFC800](https://placehold.co/20x20/FFC800/FFC800.png)  #FFC800
   - ![#58CC02](https://placehold.co/20x20/58CC02/58CC02.png)  #58CC02
-  - ![#4B4B4B](https://placehold.co/20x20/4B4B4B/4B4B4B.png)  ##4B4B4B
+  - ![#4B4B4B](https://placehold.co/20x20/4B4B4B/4B4B4B.png)  #4B4B4B
   
   
 ## Contact
