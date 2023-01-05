@@ -1,5 +1,5 @@
 # Swanify: Learn Indonesian Spelling
-Swanify is a mobile app Indonesian spelling according to PUEBI learning media and augmented reality features. The project was developed using C# programming, Unity software, and Vuforia Augmented Reality SDK.
+Swanify is a mobile app Indonesian spelling according to PUEBI learning media and augmented reality features. The project was developed for Final Project using C# programming, Unity software, and Vuforia Augmented Reality SDK.
 
 ## Display
 ![Display](https://luqmanherifa.site/img/imgswanify.png)
