@@ -4,41 +4,44 @@ Swanify is a mobile app Indonesian spelling according to PUEBI learning media an
 ## Display
 ![Display](https://luqmanherifa.site/img/imgswanify.png)
 
-## Build
-Programming
+## Software
+### Languages
   - C#
 
-Library
+### Libraries
   - Vuforia Augmented Reality SDK
 
-Tools
+### Tools
+  - Unity
   - Visual Studio
-  - Blender
-  - Figma
-  - CorelDRAW
-
-Deployment
-  - [Google Play](https://play.google.com/store/apps/details?id=id.ac.stiki.doleno.swanify)
-  - [itch.io](https://luqmanherifa.itch.io/swanify)
-  - [Appetize](https://appetize.io/app/oo6c6vfw22vv53hll7boigr6mq)
-  
-Date Created
-  - March 2021 — January 2022
 
 ## Design
-Font
+### Fonts
   - [Nunito](https://fonts.google.com/specimen/Nunito)
   - [Bogart](https://www.dafont.com/bogart.font)
   
-Color
+### Colors
   - ![#2B70C9](https://placehold.co/20x20/2B70C9/2B70C9.png)  #2B70C9
   - ![#EE4040](https://placehold.co/20x20/EE4040/EE4040.png)  #EE4040
   - ![#FFC800](https://placehold.co/20x20/FFC800/FFC800.png)  #FFC800
   - ![#58CC02](https://placehold.co/20x20/58CC02/58CC02.png)  #58CC02
   - ![#4B4B4B](https://placehold.co/20x20/4B4B4B/4B4B4B.png)  #4B4B4B
   
+### Tools
+  - Blender
+  - Figma
+  - CorelDRAW
+
+## Build
+### Deployments
+  - [Google Play](https://play.google.com/store/apps/details?id=id.ac.stiki.doleno.swanify)
+  - [itch.io](https://luqmanherifa.itch.io/swanify)
+  - [Appetize](https://appetize.io/app/oo6c6vfw22vv53hll7boigr6mq)
   
-## Contact
+### Date Created
+  - March 2021 — January 2022
+  
+## Contacts
   - [Email](mailto:luqmanherifa@gmail.com)
   - [Instagram](https://www.instagram.com/luqmanherifa)
   - [GitHub](https://github.com/luqmanherifa)
