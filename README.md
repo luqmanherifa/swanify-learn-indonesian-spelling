@@ -41,11 +41,11 @@ Swanify is a mobile app Indonesian spelling according to PUEBI learning media an
 ### Date Created
   - March 2021 — January 2022
   
-## Contacts
+## Socials
   - [Email](mailto:luqmanherifa@gmail.com)
   - [Instagram](https://www.instagram.com/luqmanherifa)
-  - [GitHub](https://github.com/luqmanherifa)
   - [LinkedIn](https://www.linkedin.com/in/luqmanherifa)
+  - [Dribbble](https://dribbble.com/luqmanherifa)
 
 ## Thanks to
   - [Duolingo](https://www.duolingo.com)
